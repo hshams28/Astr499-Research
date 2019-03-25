@@ -1,4 +1,4 @@
-# Astr499-Research-John-
+# Astr499-Research
 
 This Repository was created to share my work done during my time working as an Astronomy Undergraduate researcher for the UW DIRAC-LSST team.
 
